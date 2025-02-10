@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mocketwatch.com/sitemap.xml

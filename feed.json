@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MocketWatch",
+    "description": "",
+    "home_page_url": "https://mocketwatch.com",
+    "feed_url": "https://mocketwatch.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "MocketWatch Team"
+    },
+    "items": [
+    ]
+}
